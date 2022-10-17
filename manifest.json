@@ -3,7 +3,7 @@
   "name": "whatsapp-button",
   "version": "0.0.1",
   "title": "WhatsApp Button Component",
-  "description": "Botón de componente para whatsapp que recibirá un teléfono un logo y un mensaje",
+  "description": "Component button for whatsapp that will receive a phone a logo and a message",
   "builders": {
     "react": "3.x",
     "messages": "1.x",
