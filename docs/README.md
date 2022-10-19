@@ -1,8 +1,10 @@
 # Whatsapp Button 
 
-Componente customizado el cual crea un botón de whatsapp, el cual al ser apretado dirigira al clinte a whatsapp. 
+Componente customizado el cual crea un botón de whatsapp, el cual al ser apretado dirigira al cliente a whatsapp. 
 
-![Media Placeholder](https://user-images.githubusercontent.com/52087100/71204177-42ca4f80-227e-11ea-89e6-e92e65370c69.png) ~Agregar imagen de componente quick order ~
+![bottonwhatsapp](https://user-images.githubusercontent.com/73150391/196822625-69e5f418-d52f-4dd3-b666-8fa92e933db5.PNG)
+![whatsapp](https://user-images.githubusercontent.com/73150391/196822719-4209885a-ec61-4f0f-aa38-5c86c6029f3e.PNG)
+
 
 ## Configuración 
 
